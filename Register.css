@@ -1,0 +1,51 @@
+body{
+    background-image: url(bg4.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%, 600px;
+    padding-left: 40px;
+}
+form{
+    width: 450px;
+    padding-top: 80px;
+    padding-left: 20px;
+    margin-left: 50px;
+    margin-top: 20px;
+}       
+h1{
+    font-size: 50px;
+    color: rgba(32, 202, 16, 0.938);
+    text-align: center;
+    margin-right: 160px;
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(137, 99, 173);
+}
+input{
+    height: 20px;
+    width: 270px;
+    margin-bottom: 5px;
+}
+button{
+    height: 45px;
+    width: 100px;
+    background-color: rgba(147, 189, 63, 0.963);
+    font-size: 20px;
+    color: black;
+    border-radius: 10px;
+}
+p{
+    font-size: 22px;
+    font-weight: bold;
+    color: rgb(163, 109, 28);
+}
+a:hover{
+    color: rgba(211, 38, 40, 0.811);
+}
+#Register:hover{
+    color: yellow;
+}
+#Login:hover{
+    color: yellow;
+}
